@@ -1,0 +1,101 @@
+[
+  {
+    "filename": "rtg1.jpeg",
+    "status": "WARN",
+    "error": null,
+    "gear_cx": 280,
+    "gear_cy": 308,
+    "shaft_diameter_px": 14.69286298751831,
+    "shaft_diameter_mm": 0.7346431493759156,
+    "tip_diameter_px": 43.282685016236165,
+    "tip_diameter_mm": 2.1641342508118084,
+    "root_diameter_px": 46.521595477706235,
+    "root_diameter_mm": 2.326079773885312,
+    "pitch_diameter_px": 44.72220077688953,
+    "pitch_diameter_mm": 2.2361100388444766,
+    "tooth_count": 13,
+    "tooth_width_px": 20.291242856906557,
+    "tooth_width_mm": 1.0145621428453278,
+    "tooth_width_std_px": 16.567927829176703,
+    "tooth_depth_px": 98.07009341367278,
+    "tooth_depth_mm": 4.903504670683639,
+    "circularity": 0.3632308313452063,
+    "circularity_gdt_zone": 187.6794059292647,
+    "circularity_gdt_std": 65.17745654774171,
+    "flags": [
+      "TW_std_high",
+      "circ_low"
+    ]
+  },
+  {
+    "filename": "rtg2.jpeg",
+    "status": "ERROR",
+    "error": "OpenCV(4.13.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\imgproc\\src\\drawing.cpp:1925: error: (-215:Assertion failed) radius >= 0 && thickness <= MAX_THICKNESS && 0 <= shift && shift <= XY_SHIFT in function 'cv::circle'\n"
+  },
+  {
+    "filename": "rtg3.jpg",
+    "status": "WARN",
+    "error": null,
+    "gear_cx": 306,
+    "gear_cy": 363,
+    "shaft_diameter_px": 35.69743251800537,
+    "shaft_diameter_mm": 1.7848716259002686,
+    "tip_diameter_px": 101.2166771423102,
+    "tip_diameter_mm": 5.06083385711551,
+    "root_diameter_px": 91.76685946038539,
+    "root_diameter_mm": 4.5883429730192695,
+    "pitch_diameter_px": 97.01675817256584,
+    "pitch_diameter_mm": 4.850837908628292,
+    "tooth_count": 40,
+    "tooth_width_px": 24.83583411802224,
+    "tooth_width_mm": 1.241791705901112,
+    "tooth_width_std_px": 31.485811783437985,
+    "tooth_depth_px": 92.36503231989357,
+    "tooth_depth_mm": 4.618251615994678,
+    "circularity": 0.3168534545386981,
+    "circularity_gdt_zone": 390.3790173310324,
+    "circularity_gdt_std": 151.20887523336071,
+    "flags": [
+      "TW_std_high",
+      "circ_low"
+    ]
+  },
+  {
+    "filename": "rtg4.jpg",
+    "status": "ERROR",
+    "error": "Shaft contour too small for ellipse fit"
+  },
+  {
+    "filename": "rtg5.jpg",
+    "status": "ERROR",
+    "error": "too many indices for array: array is 1-dimensional, but 2 were indexed"
+  },
+  {
+    "filename": "rtg6.jpg",
+    "status": "WARN",
+    "error": null,
+    "gear_cx": 520,
+    "gear_cy": 520,
+    "shaft_diameter_px": 119.93333053588867,
+    "shaft_diameter_mm": 5.996666526794433,
+    "tip_diameter_px": 670.9668799665967,
+    "tip_diameter_mm": 33.548343998329834,
+    "root_diameter_px": 631.5294822277141,
+    "root_diameter_mm": 31.576474111385703,
+    "pitch_diameter_px": 653.4391476382044,
+    "pitch_diameter_mm": 32.67195738191022,
+    "tooth_count": 51,
+    "tooth_width_px": 38.20320072179306,
+    "tooth_width_mm": 1.910160036089653,
+    "tooth_width_std_px": 11.029628711445872,
+    "tooth_depth_px": 23.213027786157774,
+    "tooth_depth_mm": 1.1606513893078887,
+    "circularity": 0.2720595220736734,
+    "circularity_gdt_zone": 370.7237959704156,
+    "circularity_gdt_std": 67.9440911018903,
+    "flags": [
+      "TW_std_high",
+      "circ_low"
+    ]
+  }
+]
