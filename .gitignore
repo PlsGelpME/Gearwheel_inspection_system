@@ -9,3 +9,5 @@ test_core.py
 test_mask.py
 test_mask2.py
 test_teeth.py
+gear_edge_detection.py
+test_sideprofile.py
