@@ -1,0 +1,2895 @@
+[
+  {
+    "filename": "toothface1.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface10.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 352.35078992655093,
+    "face_width_mm": 17.617539496327545,
+    "face_angle_deg": -1.317757288617757,
+    "shaft_width_mm": 8.075,
+    "perp_deviation_deg": 0.12375000709839412,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface100.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface101.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface102.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface103.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface104.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface105.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface106.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface107.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface108.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface109.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface11.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 373.7412411089966,
+    "face_width_mm": 18.68706205544983,
+    "face_angle_deg": -2.099406858350502,
+    "shaft_width_mm": 9.025,
+    "perp_deviation_deg": 0.7723760918463967,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface110.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface111.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface112.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface113.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface114.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface115.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface116.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface117.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface118.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface119.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface12.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface120.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface121.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface122.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface123.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface124.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface125.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface126.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface127.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface128.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface129.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface13.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 378.00665086071217,
+    "face_width_mm": 18.90033254303561,
+    "face_angle_deg": -1.3032137430325041,
+    "shaft_width_mm": 8.65,
+    "perp_deviation_deg": 0.3333632985842172,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface130.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface131.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface132.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface133.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface134.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface135.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface136.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface137.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface138.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface139.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface14.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 374.455350678921,
+    "face_width_mm": 18.722767533946048,
+    "face_angle_deg": -1.646902470642742,
+    "shaft_width_mm": 8.15,
+    "perp_deviation_deg": 0.28297493903981774,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface140.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface141.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface142.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface143.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface144.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface145.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface146.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface147.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface148.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface149.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface15.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface150.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface151.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface152.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface153.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface154.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface155.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface156.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface157.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface158.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface159.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface16.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 382.7609449893492,
+    "face_width_mm": 19.13804724946746,
+    "face_angle_deg": -0.9883665120159084,
+    "shaft_width_mm": 8.15,
+    "perp_deviation_deg": 0.6373448080727684,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface160.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface161.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface162.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface163.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface164.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface165.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface166.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface167.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface168.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface169.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface17.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface170.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface171.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface172.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface173.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface174.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface175.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface176.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface177.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface178.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface179.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface18.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface180.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface181.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface182.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface183.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface184.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface185.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface186.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface187.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface188.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface189.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface19.png",
+    "status": "OK",
+    "error": null,
+    "face_width_px": 96.10129236750478,
+    "face_width_mm": 4.805064618375239,
+    "face_angle_deg": -1.0110405786852124,
+    "shaft_width_mm": 8.975,
+    "perp_deviation_deg": 0.1685163179447926,
+    "helix_angle_deg": 22.482964736860282,
+    "helix_angle_std": 0.7852104655003476,
+    "helix_line_count": 41,
+    "flags": []
+  },
+  {
+    "filename": "toothface190.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface191.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface192.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface193.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface194.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface195.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface196.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface197.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface198.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface199.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface2.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 365.7462943289618,
+    "face_width_mm": 18.28731471644809,
+    "face_angle_deg": -1.246474629721809,
+    "shaft_width_mm": 8.425,
+    "perp_deviation_deg": 0.23859815765359826,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface20.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface200.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface201.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface202.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface203.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface204.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface205.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface206.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface207.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface208.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface209.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface21.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 373.04726937876785,
+    "face_width_mm": 18.652363468938393,
+    "face_angle_deg": -0.6827399510309027,
+    "shaft_width_mm": 8.275,
+    "perp_deviation_deg": 0.5361352841003963,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface210.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface211.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface212.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface213.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface214.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface215.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface216.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface217.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface218.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface219.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface22.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface220.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface221.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface222.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface223.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface224.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface225.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface226.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface227.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface228.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface229.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface23.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface230.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface231.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface232.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface233.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface234.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface235.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface236.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface237.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface238.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface239.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface24.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 375.23518645075217,
+    "face_width_mm": 18.761759322537607,
+    "face_angle_deg": -1.679700094101686,
+    "shaft_width_mm": 8.05,
+    "perp_deviation_deg": 0.25523221545107333,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface240.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface241.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface242.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface243.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface244.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface245.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface246.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface247.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface248.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface249.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface25.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface250.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface251.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface252.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface253.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface254.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface255.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface256.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface257.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface258.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface259.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface26.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface260.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface261.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface262.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface263.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface264.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface265.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface266.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface267.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface268.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface269.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface27.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 366.4959435221017,
+    "face_width_mm": 18.324797176105086,
+    "face_angle_deg": -1.6463186332087005,
+    "shaft_width_mm": 8.1,
+    "perp_deviation_deg": 0.2012916327858818,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface270.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface271.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface272.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface273.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface274.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface275.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface276.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface277.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface278.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface279.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface280.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface281.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface282.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface283.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface284.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface285.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface286.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface287.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface288.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface289.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface290.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface291.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface292.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface293.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface294.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface295.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface296.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface297.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface298.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface299.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface3.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 374.1985326336415,
+    "face_width_mm": 18.709926631682073,
+    "face_angle_deg": -2.0083139497176994,
+    "shaft_width_mm": 7.25,
+    "perp_deviation_deg": 0.27260936078931763,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface30.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface300.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface301.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface302.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface303.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface304.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface305.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface306.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface307.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface308.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface309.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface31.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 352.92728309995056,
+    "face_width_mm": 17.646364154997528,
+    "face_angle_deg": -0.8398924411767678,
+    "shaft_width_mm": 10.875,
+    "perp_deviation_deg": 0.8784655604786877,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface310.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface311.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface312.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface313.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface314.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface315.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface316.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface317.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface318.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface319.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface32.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface320.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface321.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface322.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface323.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface324.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface325.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface326.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface327.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface328.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface329.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface33.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 379.428222428038,
+    "face_width_mm": 18.9714111214019,
+    "face_angle_deg": -2.2965646452298722,
+    "shaft_width_mm": 9.875,
+    "perp_deviation_deg": 0.5402783052954447,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface330.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface331.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface332.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface333.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface334.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface335.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface336.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface337.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface338.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface339.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface34.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface340.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface341.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface342.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface343.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface344.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface345.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface346.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface347.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface348.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface349.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface35.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 378.85763232660173,
+    "face_width_mm": 18.942881616330087,
+    "face_angle_deg": -2.2619332251092423,
+    "shaft_width_mm": 8.875,
+    "perp_deviation_deg": 0.41432295911465644,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface350.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface351.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface352.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface353.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface354.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface355.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface356.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface357.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface358.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface359.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface360.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface361.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface362.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface363.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface364.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface365.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface366.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface367.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface369.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface370.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface371.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface372.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface373.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface374.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface375.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface376.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface377.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface38.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface39.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface4.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 353.45617235023605,
+    "face_width_mm": 17.6728086175118,
+    "face_angle_deg": -1.1026827134456645,
+    "shaft_width_mm": 9.925,
+    "perp_deviation_deg": 0.2944983138507098,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface40.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 353.1955555300088,
+    "face_width_mm": 17.65977777650044,
+    "face_angle_deg": -0.8055573098196647,
+    "shaft_width_mm": 9.875,
+    "perp_deviation_deg": 0.8669260336198761,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface41.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface42.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 371.9833446224068,
+    "face_width_mm": 18.59916723112034,
+    "face_angle_deg": -1.975438274272351,
+    "shaft_width_mm": 10.2,
+    "perp_deviation_deg": 0.5556104679500464,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface421.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 172.00000000000006,
+    "face_width_mm": 8.600000000000003,
+    "face_angle_deg": 1.3507120118666151e-14,
+    "shaft_width_mm": 1.25,
+    "perp_deviation_deg": 16.70700597171097,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "perp=16.7\u00b0",
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface422.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 60.000000000000114,
+    "face_width_mm": 3.0000000000000058,
+    "face_angle_deg": 4.101732657847095e-15,
+    "shaft_width_mm": 14.775,
+    "perp_deviation_deg": 0.0,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface423.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 61.09970816497454,
+    "face_width_mm": 3.0549854082487267,
+    "face_angle_deg": 1.025795281016686,
+    "shaft_width_mm": 11.5,
+    "perp_deviation_deg": 1.0257952810166842,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface424.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 169.1076054410165,
+    "face_width_mm": 8.455380272050824,
+    "face_angle_deg": 1.9822789957026166,
+    "shaft_width_mm": 0.975,
+    "perp_deviation_deg": 0.7059111118817043,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface425.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface426.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface427.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface428.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface429.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 60.00000000000034,
+    "face_width_mm": 3.000000000000017,
+    "face_angle_deg": -9.016242094201581e-15,
+    "shaft_width_mm": 11.2,
+    "perp_deviation_deg": 1.4210854715202004e-14,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface43.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 357.75881542939845,
+    "face_width_mm": 17.88794077146992,
+    "face_angle_deg": -1.634739961407583,
+    "shaft_width_mm": 10.8,
+    "perp_deviation_deg": 0.17226025890349206,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface430.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface431.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface432.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface433.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface434.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface435.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface436.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface437.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface438.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface439.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface44.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface440.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface441.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface442.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface443.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface444.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface445.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface446.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface447.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface448.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface449.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface45.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 365.59065751177104,
+    "face_width_mm": 18.27953287558855,
+    "face_angle_deg": -1.29981648067056,
+    "shaft_width_mm": 10.0,
+    "perp_deviation_deg": 0.3446243789634593,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface450.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 171.99999999999955,
+    "face_width_mm": 8.599999999999977,
+    "face_angle_deg": 4.522434581911659e-15,
+    "shaft_width_mm": 1.85,
+    "perp_deviation_deg": 0.0,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface451.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface452.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 178.96341987939843,
+    "face_width_mm": 8.94817099396992,
+    "face_angle_deg": 0.44619272937028975,
+    "shaft_width_mm": 1.05,
+    "perp_deviation_deg": 10.372438236022006,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "perp=10.4\u00b0",
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface453.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 170.49949405633882,
+    "face_width_mm": 8.524974702816941,
+    "face_angle_deg": 0.9686214193328033,
+    "shaft_width_mm": 1.325,
+    "perp_deviation_deg": 2.0200402443140035,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface454.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface455.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface456.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface457.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface458.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface459.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface46.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 368.0977691891266,
+    "face_width_mm": 18.40488845945633,
+    "face_angle_deg": -1.4174495698319576,
+    "shaft_width_mm": 11.025,
+    "perp_deviation_deg": 0.020268542535589518,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface460.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface461.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface462.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface463.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface464.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 58.617192035051296,
+    "face_width_mm": 2.930859601752565,
+    "face_angle_deg": -3.940219429373099,
+    "shaft_width_mm": 11.375,
+    "perp_deviation_deg": 0.12614459508274933,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface465.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface466.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 60.825478416814484,
+    "face_width_mm": 3.041273920840724,
+    "face_angle_deg": -3.0286811081837595,
+    "shaft_width_mm": 9.925,
+    "perp_deviation_deg": 0.6866079972450052,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface467.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface468.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 59.62782924178111,
+    "face_width_mm": 2.9813914620890554,
+    "face_angle_deg": -3.9749212565607666,
+    "shaft_width_mm": 13.25,
+    "perp_deviation_deg": 0.15267044595096024,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface469.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 60.418841099518126,
+    "face_width_mm": 3.0209420549759063,
+    "face_angle_deg": -3.6386056507803013,
+    "shaft_width_mm": 13.325,
+    "perp_deviation_deg": 0.21819533480952202,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface47.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 366.0432848208923,
+    "face_width_mm": 18.302164241044615,
+    "face_angle_deg": -1.4296724058010604,
+    "shaft_width_mm": 9.975,
+    "perp_deviation_deg": 0.526051208060494,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface470.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface471.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface472.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface473.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 59.57013082644046,
+    "face_width_mm": 2.978506541322023,
+    "face_angle_deg": -5.0106449067429395,
+    "shaft_width_mm": 14.45,
+    "perp_deviation_deg": 0.12573358568478454,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface474.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 61.13535798319193,
+    "face_width_mm": 3.0567678991595963,
+    "face_angle_deg": -4.951674520773132,
+    "shaft_width_mm": 11.8,
+    "perp_deviation_deg": 0.13759645652979202,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface475.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface476.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 169.3107547950165,
+    "face_width_mm": 8.465537739750825,
+    "face_angle_deg": -4.966039450384576,
+    "shaft_width_mm": 1.075,
+    "perp_deviation_deg": 0.8406874551470054,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface477.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 60.248050635010244,
+    "face_width_mm": 3.0124025317505123,
+    "face_angle_deg": -1.9227692276047859,
+    "shaft_width_mm": 11.2,
+    "perp_deviation_deg": 0.18688779674130274,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface478.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface479.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface48.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 363.1912053111519,
+    "face_width_mm": 18.159560265557595,
+    "face_angle_deg": -1.7095509591735583,
+    "shaft_width_mm": 10.8,
+    "perp_deviation_deg": 0.4528025442451593,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface480.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface481.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface482.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface483.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 60.54107995896993,
+    "face_width_mm": 3.0270539979484967,
+    "face_angle_deg": 0.9996588991900028,
+    "shaft_width_mm": 13.0,
+    "perp_deviation_deg": 0.9996588991900097,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface484.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface485.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface486.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface487.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface488.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface489.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface49.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 371.4370602089691,
+    "face_width_mm": 18.571853010448457,
+    "face_angle_deg": -1.2029394759349987,
+    "shaft_width_mm": 8.25,
+    "perp_deviation_deg": 0.43363756568172107,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface490.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 59.96075492525729,
+    "face_width_mm": 2.9980377462628645,
+    "face_angle_deg": 0.023837114070529426,
+    "shaft_width_mm": 12.325,
+    "perp_deviation_deg": 0.02383711407053113,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface491.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface492.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface493.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface494.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface495.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface496.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface497.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface498.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface499.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface5.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 380.2776404025668,
+    "face_width_mm": 19.013882020128342,
+    "face_angle_deg": -2.334983762762333,
+    "shaft_width_mm": 10.975,
+    "perp_deviation_deg": 1.256165229053721,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface50.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 368.0473556485498,
+    "face_width_mm": 18.40236778242749,
+    "face_angle_deg": -1.4910543882087262,
+    "shaft_width_mm": 9.825,
+    "perp_deviation_deg": 0.041154403797023065,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface500.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface501.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface502.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface503.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface504.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface505.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface506.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface507.png",
+    "status": "OK",
+    "error": null,
+    "face_width_px": 61.05562213506107,
+    "face_width_mm": 3.0527811067530535,
+    "face_angle_deg": -1.0426062339650228,
+    "shaft_width_mm": 6.475,
+    "perp_deviation_deg": 1.0426062339650173,
+    "helix_angle_deg": 19.899313923449355,
+    "helix_angle_std": 3.3187862132627077,
+    "helix_line_count": 23,
+    "flags": []
+  },
+  {
+    "filename": "toothface508.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface509.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface51.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 352.77730493717183,
+    "face_width_mm": 17.638865246858593,
+    "face_angle_deg": -1.3958797210183045,
+    "shaft_width_mm": 10.975,
+    "perp_deviation_deg": 0.29417360581193464,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface510.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface511.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface512.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface513.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 62.54487536079811,
+    "face_width_mm": 3.1272437680399054,
+    "face_angle_deg": -0.9491948468193926,
+    "shaft_width_mm": 5.275,
+    "perp_deviation_deg": 2.617532295112696,
+    "helix_angle_deg": 23.90964433615396,
+    "helix_angle_std": 13.177881735410162,
+    "helix_line_count": 18,
+    "flags": [
+      "helix_noisy"
+    ]
+  },
+  {
+    "filename": "toothface514.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface515.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface516.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface517.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface518.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface52.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface54.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface55.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface56.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface57.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface58.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface59.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface6.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 370.5098848327343,
+    "face_width_mm": 18.525494241636714,
+    "face_angle_deg": -1.9827064808405575,
+    "shaft_width_mm": 8.875,
+    "perp_deviation_deg": 0.9017822941798812,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface60.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface61.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface62.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface63.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface64.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface65.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface66.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface67.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface68.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface69.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface7.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 369.3876809044773,
+    "face_width_mm": 18.469384045223865,
+    "face_angle_deg": -1.8583509395588176,
+    "shaft_width_mm": 10.85,
+    "perp_deviation_deg": 0.7350482254833963,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface70.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface71.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface72.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface73.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface74.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface75.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface76.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface77.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface78.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface79.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface8.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 350.3378289440038,
+    "face_width_mm": 17.516891447200187,
+    "face_angle_deg": -0.927162122132985,
+    "shaft_width_mm": 8.325,
+    "perp_deviation_deg": 0.8853905633826002,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface80.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface81.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface82.png",
+    "status": "ERROR",
+    "error": "Could not find two distinct face edges"
+  },
+  {
+    "filename": "toothface83.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface84.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface85.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface86.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface87.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface88.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface89.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface9.png",
+    "status": "WARN",
+    "error": null,
+    "face_width_px": 376.51979025278854,
+    "face_width_mm": 18.825989512639428,
+    "face_angle_deg": -2.1715895151824096,
+    "shaft_width_mm": 10.05,
+    "perp_deviation_deg": 0.8985594951256957,
+    "helix_angle_deg": null,
+    "helix_angle_std": null,
+    "helix_line_count": 0,
+    "flags": [
+      "helix_not_detected"
+    ]
+  },
+  {
+    "filename": "toothface90.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface91.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface92.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface93.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface94.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface95.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface96.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface97.png",
+    "status": "ERROR",
+    "error": "Only 1 horizontal lines found \u2014 need at least 2 for face edges"
+  },
+  {
+    "filename": "toothface98.png",
+    "status": "ERROR",
+    "error": "No lines detected \u2014 check image or thresholds"
+  },
+  {
+    "filename": "toothface99.png",
+    "status": "ERROR",
+    "error": "Only 0 horizontal lines found \u2014 need at least 2 for face edges"
+  }
+]

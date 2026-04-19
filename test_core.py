@@ -7,7 +7,7 @@ from pipeline.gear_core import run_core_pipeline
 # Arbitrary for now — change this when you have a calibration reference
 PX_PER_MM = 20.0   # example: 20 pixels = 1 mm
 
-path = "images/endface1.png"
+path = "images/real_time_gear/rtg6.jpg"
 
 print("Running core pipeline...")
 print()

@@ -128,3 +128,5 @@ print(f"  Tooth width          : ",
       f"± {summary['tooth_width_std_px']:.1f} px")
 print(f"  Gap width            : ",
       f"{summary['gap_width_mean_px']:.1f} px")
+print(f"Center : ",
+      f"{gcx,gcy}")
