@@ -72,38 +72,58 @@ def detect_teeth_from_contour(dists, angles,
     Uses signal rotation to avoid missing features at 0/360 boundary.
     """
     n   = len(dists)
+
+    # ── Guard: signal too short ────────────────────────────────────────────
+    if n < 10:
+        raise RuntimeError(
+            f"Contour signal too short: {n} points. "
+            f"Check gear mask quality.")
+
+    # ── Smoothing window — must be odd, >= 3, < signal length ─────────────
     win = smoothing_window if smoothing_window % 2 == 1 \
           else smoothing_window + 1
-    win = min(win, n - 1)
+    win = min(win, n - 1)   # must be less than signal length
+    win = max(win, 3)        # minimum window size
+    if win % 2 == 0:         # must be odd
+        win -= 1
+    win = max(win, 3)
 
     # ── Estimate pitch in samples ──────────────────────────────────────────
     if expected_count is not None:
         pitch_samples = n / expected_count
     else:
-        pitch_samples = n / 100   # conservative default
+        pitch_samples = n / 100
 
     min_dist   = max(int(pitch_samples * 0.5), 3)
     sig_range  = dists.max() - dists.min()
     prominence = sig_range * 0.15
 
-    # ── Rotate signal by quarter pitch before peak detection ───────────────
-    # Moves the 0/360 seam to the middle of a tooth gap — safe territory
+    # ── Rotate signal by quarter pitch ────────────────────────────────────
     quarter_shift = int(pitch_samples * 0.25)
     rotated       = np.roll(dists, -quarter_shift)
-    smoothed_rot  = savgol_filter(rotated, window_length=win, polyorder=3)
 
-    # ── Detect peaks on rotated signal ────────────────────────────────────
+    if len(rotated) > win:
+        smoothed_rot = savgol_filter(
+            rotated, window_length=win, polyorder=min(3, win-1))
+    else:
+        smoothed_rot = rotated.copy()
+
+    # ── Detect peaks ───────────────────────────────────────────────────────
     raw_peaks, _ = find_peaks(
         smoothed_rot,
         distance=min_dist,
         prominence=prominence
     )
 
-    # ── Rotate by three-quarter pitch for valley detection ─────────────────
-    # Different offset ensures valleys aren't at seam either
+    # ── Rotate by three-quarter pitch for valleys ─────────────────────────
     three_q_shift = int(pitch_samples * 0.75)
     rotated_v     = np.roll(dists, -three_q_shift)
-    smoothed_v    = savgol_filter(rotated_v, window_length=win, polyorder=3)
+
+    if len(rotated_v) > win:
+        smoothed_v = savgol_filter(
+            rotated_v, window_length=win, polyorder=min(3, win-1))
+    else:
+        smoothed_v = rotated_v.copy()
 
     raw_valleys, _ = find_peaks(
         -smoothed_v,
@@ -111,12 +131,16 @@ def detect_teeth_from_contour(dists, angles,
         prominence=prominence
     )
 
-    # ── Rotate indices back to original positions ──────────────────────────
+    # ── Rotate indices back ────────────────────────────────────────────────
     tooth_peaks = np.sort((raw_peaks   + quarter_shift) % n)
     gap_valleys = np.sort((raw_valleys + three_q_shift) % n)
 
-    # ── Smooth the original signal for measurement ─────────────────────────
-    smoothed = savgol_filter(dists, window_length=win, polyorder=3)
+    # ── Smooth original signal for measurement ─────────────────────────────
+    if n > win:
+        smoothed = savgol_filter(
+            dists, window_length=win, polyorder=min(3, win-1))
+    else:
+        smoothed = dists.copy()
 
     return tooth_peaks, gap_valleys, smoothed
 
