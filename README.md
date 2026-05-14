@@ -196,12 +196,10 @@ Download separately if you need to reproduce batch test results.
 
 ## Authors
 
-| Name |
-|---|---|
-| Eshvar V | 
-| Ramprakash S|
-| Sreeraam M | 
-| Vishnu Kesav V |
+Eshvar V
+Ramprakash S
+Sreeraam M
+Vishnu Kesav V
 
 **Supervisor:** Dr. R. Elansezhian  
 **Department:** Mechatronics Engineering  
