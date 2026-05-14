@@ -60,21 +60,37 @@ No deep learning. No GPU. No proprietary hardware.
 ## Repository Structure
 
 gear_inspection/
+
 ├── pipeline/
+
 │   ├── gear_core.py        # Shaft, tip circle, root, circularity
+
 │   ├── gear_mask.py        # Binary mask, contour extraction
+
 │   ├── tooth_analysis.py   # Tooth count, width, depth
+
 │   ├── sideprofile.py      # Face width, helix angle
+
 │   └── demo_gear.py        # Hardcoded demo values (presentation mode)
+
 ├── gui/
+
 │   └── dashboard.py        # Tkinter inspection dashboard + IP camera
+
 ├── captures/               # Timestamped captured images (gitignored)
+
 ├── results/                # Batch output files (gitignored)
+
 ├── images/                 # Gear images for testing (gitignored)
+
 ├── batch_test.py           # Endface batch validation (101 images)
+
 ├── batch_sideprofile.py    # Side profile batch validation
+
 ├── run_dashboard.py        # Entry point
+
 ├── gear_inspection.spec    # PyInstaller build spec
+
 └── requirements.txt        # Python dependencies
 
 ---
