@@ -1,0 +1,48 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Runtime outputs
+results/
+captures/
+!results/.keep
+!captures/.keep
+
+# Images (too large, not redistributable)
+images/
+dataset/
+
+# Captured frames
+*_capture_endface.jpg
+*_capture_side.jpg
+*_resized.png
+*_resized.jpg
+
+# Local config (contains IP addresses)
+gear_inspection_config.json
+
+# Build output
+dist/
+build/
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
